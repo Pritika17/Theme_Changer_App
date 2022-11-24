@@ -17,5 +17,5 @@
 <br>
 
 ## Time taken 
-👉 It took 5 hours to complete
+👉 It took 2 hours to complete
 
